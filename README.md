@@ -98,7 +98,7 @@
         <td><img alt="Forks" src="https://img.shields.io/github/forks/camgsab99/CSCI4120_Group15?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/camgsab99/CSCI4120_Group15?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/camgsab99/CSCI4120_Group15?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/camgsab99/CSCI4120_Group15?label=javascript&style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/camgsab99/CSCI4120_Group15?style=flat-square"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/camgsab99/CSCI3700_Group15"><b>Databases</b></a></td>
