@@ -2,32 +2,8 @@
 
 <!-- Currently a CSCI Major at East Carolina University -->
 
-<div align="center">
 
-<a href="https://github.com/camgsab99">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=camgsab99&show_icons=true&include_all_commits=true&theme=radical"/>
-</a>
-   
-
-<a href="https://github.com/camgsab99">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camgsab99&layout=compact&theme=radical"/>
-</a>
-
-</div>
-
-<h3 align="center">Connect with me:</h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/cameron-sabiston-11753999/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cameron-sabiston-11753999" height="30" width="40" />
-</a>
-<!-- <a href="https://discord.gg/GJzQ6spK" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GJzQ6spK" height="30" width="40" />
-</a> -->
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<h3>Languages and Tools:</h3>
     <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
@@ -43,10 +19,10 @@
     <a href="https://www.python.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a> 
-    <a target="_blank">
+    <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
     </a>
-    <a target="_blank">
+    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
     </a>
     <a href="https://www.photoshop.com/en" target="_blank">
@@ -61,9 +37,21 @@
     <a href="https://unity.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
     </a>
-</p>
+
 
 ### Projects and Dev Stuffs:
+
+<details>
+	<summary><b>Connect with me: </b></summary>
+
+<a href="https://www.linkedin.com/in/cameron-sabiston-11753999/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cameron-sabiston-11753999" height="30" width="40" />
+</a>
+<a href="https://discordapp.com/users/Requzin#5065/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GJzQ6spK" height="30" width="40" />
+</a>
+
+</details>
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
@@ -127,21 +115,24 @@
  
 <details>	
   <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Windows 11 | macOS Monterey 12.6</li>
-       <li><details>
-       <summary><b>Desktop:</b> Custom Build...</summary>
-          <li><b>CPU: </b>
-          <li><b>GPU: </b>
-          <li><b>RAM: </b>
-          <li><b>Case: </b>
-       </details></li>
+  <summary><b>My Setup</b></summary>
+       <ul>
+  	    <li><b>OS: </b> Windows 11 | macOS Monterey 12.6</li>
+       	    <li><b>Desktop: </b>
+	    <ul>
+       	  <li><b>CPU: </b> i5-12600K
+          <li><b>GPU: </b> MSI RTX 2070 Tri Frozr
+          <li><b>RAM: </b> 16GB Trident Z Royal 3600MHz
+          <li><b>Case: </b> Lian Li PC-O11 White
+	  <li><b>Mobo: </b> MSI PRO Z690-A
+	     </ul>
+       </li>
 	    <li><b>Laptop: </b> MacBook Pro 14" (2021)</li>
   	    <li><b>Browser: </b> Chrome | Safari</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode | Xcode</li>
-	    <li><b>Check me out:</b> Linkedin, Twitter, Instagram</li>
+	    <li><b>Terminal: </b> Hyper</li>
+	    <li><b>Zsh Shell: </b> Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor: </b> VSCode | Xcode</li>
+	    <li><b>Check me out: </b> Linkedin, Twitter, Instagram</li>
 	    <br />
 </details>
 
