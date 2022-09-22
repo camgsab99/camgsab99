@@ -28,7 +28,7 @@ I'm currently a senior at East Carolina University and I'm majoring in Computer 
 ### Things I Enjoy:
 
 - 💻 &nbsp; I love learning about AI and new coding languages.
-- 📰 &nbsp; I play a lot of video games, mostly including RTS and FPS.
+- 📰 &nbsp; I play a lot of video games, mostly RTS and FPS.
 
 ### Projects and Dev Stuffs:
 
