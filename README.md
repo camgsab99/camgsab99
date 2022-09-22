@@ -1,55 +1,44 @@
 <h1 align="center">Cameron Sabiston</h1>
 
-<!-- Currently a CSCI Major at East Carolina University -->
-
+<h3>Welcome to my Profile</h3>
+I'm currently a senior at East Carolina University and I'm majoring in Computer Science. I'm currently taking classes in Database Management, Machine Learning, and Principles of Progamming Languages. I'm a jack of all trades, master in none.
 
 <h3>Languages and Tools:</h3>
-    <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://isocpp.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-    </a>
-    <a href="http://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    </a>
-    <a href="https://www.oracle.com/java/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a> 
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a> 
-    <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-    </a>
-    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-    </a> 
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://pytorch.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-    </a> 
-    <a href="https://unity.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-    </a>
+	<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp". </code>
+	<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="c". </code>
+	<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python"></code>
+	<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+	<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" alt="haskell"></code>
+	<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab".></code>
+	<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java".></code>
+	<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter".></code>
+	<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql".></code>
+	<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift".></code>
+	<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode".></code>
+	<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="xcode".></code>
+	<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="illustrator".></code>
 
+### Current Adventures:
+
+- 🛠 &nbsp; I’m currently working with PostgreSQL, Prolog, Haskell, Python, Swift, and C++.
+- 🚀 &nbsp; I’m currently learning Machine Learning and Database Management.
+- 👨🏻‍💻 &nbsp; Some of my current projects are available on [Github](https://github.com/camgsab99).
+- 📫 &nbsp; You can reach me at camgsab99@live.com.
+
+### Things I Enjoy:
+
+- 💻 &nbsp; I love learning about AI and new coding languages.
+- 📰 &nbsp; I play a lot of video games, mostly including RTS and FPS.
 
 ### Projects and Dev Stuffs:
 
 <details>
 	<summary><b>Connect with me: </b></summary>
 
-<a href="https://www.linkedin.com/in/cameron-sabiston-11753999/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cameron-sabiston-11753999" height="30" width="40" />
-</a>
-<a href="https://discordapp.com/users/Requzin#5065/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GJzQ6spK" height="30" width="40" />
-</a>
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/camgsab99)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/og.cammysabby/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cameron-sabiston-11753999/)
+
 
 </details>
 
