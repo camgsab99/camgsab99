@@ -1,4 +1,4 @@
-<img src=/header.png>
+<img src="https://github.com/camgsab99/camgsab99/blob/main/header.png">
 
 <h3>Welcome to my Profile</h3>
 I'm currently a senior at East Carolina University and I'm majoring in Computer Science. I'm currently taking classes in Database Management, Machine Learning, and Principles of Progamming Languages. I'm a jack of all trades, master in none.
