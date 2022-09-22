@@ -1,22 +1,38 @@
 <img src="https://github.com/camgsab99/camgsab99/blob/main/header.png">
 
-<h3>Welcome to my Profile</h3>
-I'm currently a senior at East Carolina University and I'm majoring in Computer Science. I'm currently taking classes in Database Management, Machine Learning, and Principles of Progamming Languages. I'm a jack of all trades, master of none.
+<h3 align="center">A developer from North Carolina</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=camgsab99&label=Profile%20views&color=0e75b6&style=flat" alt="camgsab99" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=camgsab99" alt="camgsab99" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/camgsab99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="camgsab99" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cameron-sabiston-11753999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camgsab99" height="30" width="40" /></a>
+<a href="https://instagram.com/og.cammysabby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="og.cammysabby" height="30" width="40" /></a>
+</p>
 
 ### Languages and Tools:
-<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp"></code>
-<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="c"></code>
-<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" alt="haskell"></code>
-<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab"></code>
-<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java"></code>
-<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter"></code>
-<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql"></code>
-<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift"></code>
-<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode"></code>
-<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="xcode"></code>
-<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="illustrator"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="27" height="27"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="27" height="27"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="27" height="27"></code>
+<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="27" height="27"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="27" height="27"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="27" height="27"></code>
+<code><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="27" height="27"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="27" height="27"></code> 
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="27" height="27"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="27" height="27"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="27" height="27"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="27" height="27"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="27" height="27"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="27" height="27"></code>
+<code><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="27" height="27"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="27" height="27"></code>
+<code><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="27" height="27"></code> 
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="27" height="27"></code>
+<code><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="27" height="27"></code> 
 
 ### Current Adventures:
 
@@ -31,16 +47,6 @@ I'm currently a senior at East Carolina University and I'm majoring in Computer 
 - 📰 &nbsp; I play a lot of video games, mostly RTS and FPS.
 
 ### Projects and Dev Stuffs:
-
-<details>
-	<summary><b>Connect with me: </b></summary>
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/camgsab99)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/og.cammysabby/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cameron-sabiston-11753999/)
-
-
-</details>
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
