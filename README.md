@@ -3,20 +3,20 @@
 <h3>Welcome to my Profile</h3>
 I'm currently a senior at East Carolina University and I'm majoring in Computer Science. I'm currently taking classes in Database Management, Machine Learning, and Principles of Progamming Languages. I'm a jack of all trades, master in none.
 
-<h3>Languages and Tools:</h3>
-	<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp". </code>
-	<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="c". </code>
-	<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python"></code>
-	<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-	<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" alt="haskell"></code>
-	<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab".></code>
-	<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java".></code>
-	<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter".></code>
-	<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql".></code>
-	<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift".></code>
-	<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode".></code>
-	<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="xcode".></code>
-	<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="illustrator".></code>
+### Languages and Tools:
+<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp"></code>
+<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="c"></code>
+<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" alt="haskell"></code>
+<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab"></code>
+<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java"></code>
+<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter"></code>
+<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql"></code>
+<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift"></code>
+<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode"></code>
+<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="xcode"></code>
+<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="illustrator"></code>
 
 ### Current Adventures:
 
@@ -121,7 +121,5 @@ I'm currently a senior at East Carolina University and I'm majoring in Computer 
 	    <li><b>Terminal: </b> Hyper</li>
 	    <li><b>Zsh Shell: </b> Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor: </b> VSCode | Xcode</li>
-	    <li><b>Check me out: </b> Linkedin, Twitter, Instagram</li>
 	    <br />
 </details>
-
