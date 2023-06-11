@@ -103,13 +103,13 @@
   <br />
   <summary><b>My Setup</b></summary>
        <ul>
-  	    <li><b>OS: </b> Windows 11 | macOS Monterey 12.6</li>
+  	    <li><b>OS: </b> Windows 11 | macOS Ventura 13.4</li>
        	    <li><b>Desktop: </b>
 	    <ul>
        	  <li><b>CPU: </b> i5-12600K
-          <li><b>GPU: </b> MSI RTX 2070 Tri Frozr
-          <li><b>RAM: </b> 16GB Trident Z Royal 3600MHz
-          <li><b>Case: </b> Lian Li PC-O11 White
+          <li><b>GPU: </b> Gigabyte RTX 4080 Aero
+          <li><b>RAM: </b> 32GB Corsair Vengeance RGB PRO 3600MHz
+          <li><b>Case: </b> NZXT H7 Flow
 	  <li><b>Mobo: </b> MSI PRO Z690-A
 	     </ul>
        </li>
