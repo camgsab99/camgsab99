@@ -36,10 +36,9 @@
 
 ### Current Adventures:
 
-- 🛠 &nbsp; I’m currently working with PostgreSQL, Prolog, Haskell, Python, Swift, and C++.
-- 🚀 &nbsp; I’m currently learning Machine Learning and Database Management.
+- 🛠 &nbsp; I’m currently working with PostgreSQL, Python, and C++.
 - 👨🏻‍💻 &nbsp; Some of my current projects are available on [Github](https://github.com/camgsab99).
-- 📫 &nbsp; You can reach me at camgsab99@live.com.
+- 📫 &nbsp; You can reach me at sabistoncameron@gmail.com.
 
 ### Things I Enjoy:
 
